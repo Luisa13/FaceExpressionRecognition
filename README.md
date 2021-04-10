@@ -40,6 +40,7 @@ Luisa Sanchez Avivar - 2020
 I followed the next references:
 
 * [Animated game with python](https://github.com/PubNubDevelopers/Ninja-Multiplayer-Platformer) and comes with a [tuto](https://www.pubnub.com/blog/javascript-multiplayer-game/)
+* [Load a sprite with pygame](https://www.simplifiedpython.net/pygame-sprite-animation-tutorial/)
 * [From raw images to real-time predictions](https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-deep-learning-ddbbda1be0e4) looking at [this repo](https://github.com/jonathanoheix/Real-Time-Face-Expression-Recognition/blob/master/Face%20expression%20recognition%20with%20Deep%20Learning.ipynb)
 * [Flask application example](https://towardsdatascience.com/develop-an-interactive-drawing-recognition-app-based-on-cnn-deploy-it-with-flask-95a805de10c0)
 * [Download from kaggle](https://www.kaggle.com/general/74235)
