@@ -44,3 +44,4 @@ I followed the next references:
 * [From raw images to real-time predictions](https://towardsdatascience.com/from-raw-images-to-real-time-predictions-with-deep-learning-ddbbda1be0e4) looking at [this repo](https://github.com/jonathanoheix/Real-Time-Face-Expression-Recognition/blob/master/Face%20expression%20recognition%20with%20Deep%20Learning.ipynb)
 * [Flask application example](https://towardsdatascience.com/develop-an-interactive-drawing-recognition-app-based-on-cnn-deploy-it-with-flask-95a805de10c0)
 * [Download from kaggle](https://www.kaggle.com/general/74235)
+* [emoji face emotion](https://data-flair.training/blogs/create-emoji-with-deep-learning/)
